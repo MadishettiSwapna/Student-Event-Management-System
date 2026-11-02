@@ -1,2 +1,3 @@
 Student Event Management System
-Developer One
+
+Developed by Developer One and Developer Two.
